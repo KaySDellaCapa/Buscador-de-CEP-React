@@ -7,8 +7,10 @@ Funcionalidades de código:
 
 É bem simples, ele funciona, como o nome diz, buscando CEP. Você digita ou copia e cola um CEP, e ele vai te retornar o local, o estado e o complemento (se tiver). Implementei nele um sistema de alerta quando não se digita nada na barra de pesquisa, ou quando se digita letra; ele faz uma pequena verificação. O projeto tem uma renderização condicional:  
 
+```
 {Object.keys(cep).length > 0 && (
         <main className='main'>
           <h2>CEP: {cep.cep}</h2>
+```
           
   onde o espaço de CEP renderiza quando de fato tiver buscado um CEP. Se for maior que 0, a chave vai ser maior que um, ou seja, retorna o main.
