@@ -13,4 +13,4 @@ Funcionalidades de código:
           <h2>CEP: {cep.cep}</h2>
 ```
           
-  onde o espaço de CEP renderiza quando de fato tiver buscado um CEP. Se for maior que 0, a chave vai ser maior que um, ou seja, retorna o main.
+  Aqui é o espaço de CEP renderiza quando de fato tiver buscado um CEP. Se for maior que 0, a chave vai ser maior que um, ou seja, retorna o main.
