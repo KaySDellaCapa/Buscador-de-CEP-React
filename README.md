@@ -1,6 +1,7 @@
 # Buscador de CEP
 
-Primeiramente, queria ressaltar que para este projeto, instalei a biblioteca React-Icons, para usar o ícone de pesquisa. Pela primeira vez, por conta deste buscador, usei uma animação feita no CSS com o keyframes, chamada de fliptitles, que faz o título se esticar ao abrir ou recarregar a página. Achei o jeito que se estrutura, principalmente, tranquilo.                                                                                              
+Primeiramente, queria ressaltar que para este projeto, instalei a biblioteca React-Icons, para usar o ícone de pesquisa. Pela primeira vez, por conta deste buscador, usei uma animação feita no CSS com o keyframes, chamada de fliptitles, que faz o título se esticar ao abrir ou recarregar a página. Achei o jeito que se estrutura, principalmente, tranquilo.              
+
 -----------------------
 Funcionalidades de código:
 
